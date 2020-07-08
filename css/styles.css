@@ -1,0 +1,188 @@
+
+/* .video-selector{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -999;
+  /* background-color: rgba(0, 0, 0, 0.6); */
+} */
+
+body{
+color: #fff;
+}
+
+/* Headings */
+h1{
+/* font-family: 'Karma', serif; */
+font-family: 'Yatra One', cursive;
+  font-size: 8rem;
+  padding-top:4%;
+}
+
+h2{
+ font-family: 'Yatra One', cursive;
+  font-size: 4rem;
+}
+.homepage-text2{
+   text-align: center;
+   line-height: 1.5;
+}
+.homepage-text3{
+   padding-top: 8%;
+}
+
+h3{
+  font-family: 'Yatra One', cursive;
+   font-size: 2rem;
+}
+.title-text1{
+   text-align:left ;
+   padding-top: 3%;
+}
+
+hr{
+    border-style: none;
+    text-align: center;
+}
+
+hr.title-hr{
+  border-top: 3px solid;
+  width: 30%;
+  border-color: white;
+  padding-top: 20%;
+}
+hr.menu-hr{
+  border-top: 1px solid;
+  border-color: #888888;
+  width: 30%;
+}
+hr.footer-hr{
+  border-top-style: dotted;
+  border-color: #d3a261;
+  border-width:6px;
+  width: 4%;
+ margin-top: 4%;
+ margin-bottom: 4%;
+}
+
+hr.contact-hr{
+  border-top: 1px solid;
+  border-color: #d3a261;
+  width: 20%;
+}
+
+hr.address-hr{
+  border-top: 1px solid;
+  border-color:#d3a261;
+  width: 8%;
+}
+
+p{
+    font-family: 'Yatra One', cursive;
+}
+
+/* Navigation Bar */
+.navbar{
+  	border-bottom: 1px solid #d3a261;
+background: rgba(0, 0, 0, 0.4);
+}
+.navbar-brand{
+    font-family: 'Arya', sans-serif;
+  font-size: 2rem;
+  color: #d3a261;
+}
+
+
+/* Homepage */
+#homepage{
+  background-image: url(../img/homepage.jpg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 100vh;
+  /* background-color: rgba(0, 0, 0, 0.4); */
+
+}
+
+
+/* Title */
+#title{
+  font-family: 'Yatra One', cursive;
+  text-align: center;
+  font-size: 5rem;
+  padding: 15% 5% 1%;
+  width: 100%;
+  color: #fff;
+}
+
+
+/* Menu */
+ #menu{
+background-color: #fff;
+margin: 5%;
+text-align: center;
+border: 1px solid black;
+}
+.highlight{
+  font-family: 'Allura', cursive;
+  color: #d3a261;
+  font-size: 60px;
+  weight: bold;
+}
+.menu-heading{
+  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Berkshire Swash', cursive; */
+  /* font-family: 'Cutive Mono', monospace; */
+  color: #454754;
+  font-weight: 900;
+    font-size: 35px;
+    margin-top: -30px;
+    weight:bold;
+    letter-spacing: 10px;
+}
+
+
+.menu-img{
+  height: 50%;
+  width: 75% ;
+  padding: 5%;
+}
+
+
+/* Footer */
+ #footer{
+  background-image: url(../img/bottompage.jpg);
+ background-size: cover;
+ background-position: center;
+ height: 20rem;
+ background-color: rgba(0, 0, 0, 0.6);
+ padding-bottom: 40%;
+ height: auto;
+ text-align: center;
+}
+.contact{
+  /* background-color: brown; */
+  color: #fff;
+  padding: 5%;
+  text-align: center;
+}
+
+.map{
+  height: 50%;
+  width: 50%;
+}
+
+/* .video-selector{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -999;
+} */
